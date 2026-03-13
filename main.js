@@ -1,7 +1,7 @@
 const projects = [
     {
         id: "atex-amazon",
-        title: "アテックス Amazon LP制作",
+        title: "インテリアメーカー Amazon LP制作",
         category: "EC Design / AI Direction",
         type: "Client Work (受託業務)",
         date: "2026.02",
@@ -16,11 +16,11 @@ const projects = [
     },
     {
         id: "sanyu-furniture",
-        title: "三友ファニチャー ドレッサープロモーション",
+        title: "家具メーカー ドレッサープロモーション",
         category: "EC Design / AI Hybrid",
         type: "Client Work (受託業務)",
         date: "2026.01",
-        description: "家具メーカー「三友ファニチャー」様の新作ドレッサー制作。AIによる構成案の自動化とハイブリッド撮影を導入した最新ワークフロー。メーカー直販のこだわりを、スピード感を持って高品質なビジュアルへと昇華させました。",
+        description: "家具メーカー様の新作ドレッサー制作。AIによる構成案の自動化とハイブリッド撮影を導入した最新ワークフロー。メーカー直販のこだわりを、スピード感を持って高品質なビジュアルへと昇華させました。",
         image: "img/sanyu_01.jpg",
         tags: ["受託業務", "AI/Hybrid", "Furniture", "Visual Strategy"],
         gallery: [
@@ -36,7 +36,7 @@ const projects = [
     },
     {
         id: "agent-trading-desk",
-        title: "エイゼントレイディング 学習デスク",
+        title: "家具商社 学習デスク",
         category: "EC Design / AI Hybrid",
         type: "Client Work (受託業務)",
         date: "2026.01",
