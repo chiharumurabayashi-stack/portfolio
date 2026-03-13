@@ -167,7 +167,7 @@ const projects = [
     },
     {
         id: "mitsuba-creative",
-        title: "株式会社三葉 クリエイティブ実績",
+        title: "前職 クリエイティブ実績",
         category: "Creative Direction / Design",
         type: "Career Roots (前職実績)",
         date: "2018-2019",
