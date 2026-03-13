@@ -54,7 +54,7 @@ const projects = [
     },
     {
         id: "yuasa-tvstand",
-        title: "ユアサプライムス TVスタンド",
+        title: "家電メーカー TVスタンド",
         category: "EC Design / Technical Docs",
         type: "Client Work (受託業務)",
         date: "2025.08",
@@ -84,7 +84,7 @@ const projects = [
     },
     {
         id: "matsuda-kagu",
-        title: "松田家具 コーポレートサイト",
+        title: "家具メーカー コーポレートサイト",
         category: "Web Design / Direction",
         type: "Client Work (受託業務)",
         date: "2025.08",
@@ -98,11 +98,11 @@ const projects = [
     },
     {
         id: "nanri-works",
-        title: "ナンリワークス 商品プロモーション",
+        title: "インテリアショップ 商品プロモーション",
         category: "EC Design / Art Direction",
         type: "Client Work (受託業務)",
         date: "2025.05",
-        description: "人気ECショップ「ナンリワークス」様の商品プロモーション。ホテルスタイルベッドの魅力を引き出す撮影ディレクションと商品ページ構成を担当。洗練されたスタイリングと機能的な訴求を両立させたクリエイティブを展開しました。",
+        description: "人気ECショップ様の商品プロモーション。ホテルスタイルベッドの魅力を引き出す撮影ディレクションと商品ページ構成を担当。洗練されたスタイリングと機能的な訴求を両立させたクリエイティブを展開しました。",
         image: "img/nanri_01.jpg",
         tags: ["受託業務", "Furniture", "Direction", "EC"],
         gallery: [
