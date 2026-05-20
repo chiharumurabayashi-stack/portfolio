@@ -183,7 +183,7 @@ const projects = [
     },
     {
         id: "tateralutto-launch",
-        title: "タテラルット 注文住宅ブランド立ち上げ",
+        title: "注文住宅ブランド立ち上げ",
         category: "Brand Launch / Print & Signage",
         type: "Career Roots (前職実績 / 住宅メーカー)",
         date: "2016",
@@ -206,7 +206,7 @@ const projects = [
     },
     {
         id: "futaba-realestate",
-        title: "フタバ不動産開発 販促・広告アーカイブ",
+        title: "不動産会社の販促・広告アーカイブ",
         category: "Real Estate Marketing / Print",
         type: "Career Roots (前職実績 / 不動産)",
         date: "2012-2015",
