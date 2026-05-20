@@ -182,6 +182,55 @@ const projects = [
         ]
     },
     {
+        id: "tateralutto-launch",
+        title: "タテラルット 注文住宅ブランド立ち上げ",
+        category: "Brand Launch / Print & Signage",
+        type: "Career Roots (前職実績 / 住宅メーカー)",
+        date: "2016",
+        description: "ローコスト注文住宅ブランド「タテラルット」のゼロベース立ち上げを担当。コンセプト設計、ロゴ、価格帯訴求のロジック設計、A4チラシ・A1モデルハウス看板・玄関ドア広告・のぼり旗・展示場掲示物まで、紙媒体販促物の制作を一気通貫でディレクション。船井総研の研修にも参加し、住宅マーケティングの実戦投入と検証を繰り返しました。注文住宅ビジネスにおける「世界観づくり」と「数字でのコスト訴求」を両立させた事例です。",
+        image: "img/tateralutto_concept.jpg",
+        tags: ["住宅メーカー", "ブランド立ち上げ", "Print", "Signage", "Concept"],
+        gallery: [
+            "img/tateralutto_series.jpg",
+            "img/tateralutto_flyer.jpg",
+            "img/tateralutto_888.jpg",
+            "img/tateralutto_a4flyer.jpg",
+            "img/tateralutto_signboard_a1.jpg",
+            "img/tateralutto_costcompare.jpg",
+            "img/tateralutto_door_ad.jpg",
+            "img/tateralutto_exhibit.jpg",
+            "img/tateralutto_nobori.jpg",
+            "img/tateralutto_888_exterior.jpg",
+            "img/tateralutto_999_exterior.jpg"
+        ]
+    },
+    {
+        id: "futaba-realestate",
+        title: "フタバ不動産開発 販促・広告アーカイブ",
+        category: "Real Estate Marketing / Print",
+        type: "Career Roots (前職実績 / 不動産)",
+        date: "2012-2015",
+        description: "地域不動産会社の販促を全面的に担当。新聞折込・フリーペーパー（あるある／マンボウ／すぱいす／サンクス大村）への定期広告、建売・分譲地・中古物件の物件チラシ、屋外看板（A1・横長サイズ）、買取訴求の集客チラシまで、紙媒体のあらゆるフォーマットで企画・デザイン・入稿を継続。エリア×物件種別×訴求軸の組み合わせを試行しながら、月次ベースで広告を運用し続けた現場経験です。宅地建物取引士の知識を活かし、表示規約に沿った正確な広告制作を徹底しました。",
+        image: "img/futaba_kusaba.jpg",
+        tags: ["不動産", "Print", "新聞折込", "屋外広告", "宅建士"],
+        gallery: [
+            "img/futaba_sanksu.jpg",
+            "img/futaba_present.jpg",
+            "img/futaba_buyback.jpg",
+            "img/futaba_kyowa.jpg",
+            "img/futaba_kyowa_guide.jpg",
+            "img/futaba_kyowa_flyer.jpg",
+            "img/futaba_suwa_a4.jpg",
+            "img/futaba_kuidetsu.jpg",
+            "img/futaba_arase_signboard.jpg",
+            "img/futaba_arase_ad.jpg",
+            "img/futaba_spice.jpg",
+            "img/futaba_manbou.jpg",
+            "img/futaba_aruaru.jpg",
+            "img/futaba_company.jpg"
+        ]
+    },
+    {
         id: "early-portraits",
         title: "似顔絵・キャラクター制作アーカイブ",
         category: "Illustration / Character Design",
