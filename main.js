@@ -1,7 +1,7 @@
 const projects = [
     {
         id: "atex-amazon",
-        title: "インテリアメーカー Amazon LP制作",
+        title: "ヘルスケア家電メーカー Amazon LP制作",
         category: "EC Design / AI Direction",
         type: "Client Work (受託業務)",
         date: "2026.02",
