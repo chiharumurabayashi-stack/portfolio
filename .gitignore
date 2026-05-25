@@ -23,5 +23,9 @@ resume*.txt
 git_history.txt
 update_pr*.py
 
-# === ここから下は必要に応じて公開可否を判断 ===
-# シーケンス 01.mp4   # 作品なら公開、私的なら # を外す
+# 作業用スクリプト・素材（公開サイトには不要 / 個人情報を含む場合あり）
+convert_assets.py
+resize_assets.py
+references/
+research/
+シーケンス 01.mp4
